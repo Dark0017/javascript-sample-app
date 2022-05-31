@@ -1,18 +1,1 @@
-{
-  "name": "sample-web-integration",
-  "version": "0.0.0",
-  "private": true,
-  "scripts": {
-    "start": "node ./bin/www"
-  },
-  "dependencies": {
-    "axios": "^0.21.1",
-    "cookie-parser": "~1.4.4",
-    "debug": "~2.6.9",
-    "dotenv": "^8.2.0",
-    "ejs": "~2.6.1",
-    "express": "~4.16.1",
-    "http-errors": "~1.6.3",
-    "morgan": "~1.9.1"
-  }
-}
+{"status":200,"url":"https://raw.githubusercontent.com/Dark0017/javascript-sample-app/main/package.json","headers":{"accept-ranges":"bytes","access-control-allow-origin":"*","cache-control":"max-age=300","connection":"close","content-encoding":"gzip","content-length":"226","content-security-policy":"default-src 'none'; style-src 'unsafe-inline'; sandbox","content-type":"text/plain; charset=utf-8","date":"Tue, 31 May 2022 16:21:13 GMT","etag":"W/\"3473a0ca0468f0960b0288f2d8fccb72215afe2ca53bd3fa26a060f190ce2e74\"","expires":"Tue, 31 May 2022 16:26:13 GMT","source-age":"0","strict-transport-security":"max-age=31536000","vary":"Authorization,Accept-Encoding,Origin","via":"1.1 varnish","x-cache":"MISS","x-cache-hits":"0","x-content-type-options":"nosniff","x-fastly-request-id":"0c3fad987c149f7961e3695cdfe1b65f87a59efa","x-frame-options":"deny","x-github-request-id":"5344:031D:1A66F:223E6:62964079","x-served-by":"cache-hyd1100035-HYD","x-timer":"S1654014073.436756,VS0,VE275","x-xss-protection":"1; mode=block"},"data":"{\n  \"name\": \"sample-web-integration\",\n  \"version\": \"0.0.0\",\n  \"private\": true,\n  \"scripts\": {\n    \"start\": \"node ./bin/www\"\n  },\n  \"dependencies\": {\n    \"axios\": \"^0.21.1\",\n    \"cookie-parser\": \"~1.4.4\",\n    \"debug\": \"~2.6.9\",\n    \"dotenv\": \"^8.2.0\",\n    \"ejs\": \"~2.6.1\",\n    \"express\": \"~4.16.1\",\n    \"http-errors\": \"~1.6.3\",\n    \"morgan\": \"~1.9.1\"\n  }\n}\n","dependencies":{"axios":"^0.23.0"}}
